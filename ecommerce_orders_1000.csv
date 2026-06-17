@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,total_amount,order_date
+1,63,2,Phone,Electronics,1,699.99,699.99,2025-05-21
+2,174,4,Monitor,Electronics,2,249.99,499.98,2025-02-22
+3,109,9,SSD,Storage,1,109.99,109.99,2025-10-30
+4,56,1,Laptop,Electronics,1,899.99,899.99,2025-02-17
+5,7,4,Monitor,Electronics,5,249.99,1249.95,2025-11-05
+6,180,9,SSD,Storage,2,109.99,219.98,2025-11-29
+7,115,9,SSD,Storage,4,109.99,439.96,2025-04-23
+8,195,10,Smart Watch,Wearables,3,199.99,599.97,2025-01-04
+9,72,3,Tablet,Electronics,4,399.99,1599.96,2025-06-24
+10,27,3,Tablet,Electronics,2,399.99,799.98,2025-06-22
+11,92,2,Phone,Electronics,4,699.99,2799.96,2025-02-19
+12,12,6,Mouse,Accessories,5,29.99,149.95,2025-05-16
+13,97,8,Webcam,Accessories,5,69.99,349.95,2025-03-05
+14,161,2,Phone,Electronics,5,699.99,3499.95,2025-05-31
+15,50,10,Smart Watch,Wearables,3,199.99,599.97,2025-10-23
+16,59,2,Phone,Electronics,1,699.99,699.99,2025-12-05
+17,26,5,Keyboard,Accessories,1,49.99,49.99,2025-04-30
+18,163,7,Headphones,Accessories,3,89.99,269.97,2025-08-21
+19,91,6,Mouse,Accessories,2,29.99,59.98,2025-07-09
+20,175,4,Monitor,Electronics,3,249.99,749.97,2025-12-26
+21,44,2,Phone,Electronics,5,699.99,3499.95,2025-11-22
+22,119,9,SSD,Storage,2,109.99,219.98,2025-03-25
+23,177,7,Headphones,Accessories,3,89.99,269.97,2025-11-24
+24,84,9,SSD,Storage,2,109.99,219.98,2025-12-17
+25,81,1,Laptop,Electronics,2,899.99,1799.98,2025-01-17
+26,55,7,Headphones,Accessories,3,89.99,269.97,2025-02-03
+27,168,10,Smart Watch,Wearables,3,199.99,599.97,2025-04-19
+28,118,8,Webcam,Accessories,4,69.99,279.96,2025-11-26
+29,64,3,Tablet,Electronics,3,399.99,1199.97,2025-03-13
+30,192,9,SSD,Storage,5,109.99,549.95,2025-05-15
+31,103,10,Smart Watch,Wearables,4,199.99,799.96,2025-10-26
+32,131,6,Mouse,Accessories,2,29.99,59.98,2025-03-12
+33,29,8,Webcam,Accessories,1,69.99,69.99,2025-01-25
+34,109,3,Tablet,Electronics,2,399.99,799.98,2025-12-15
+35,98,10,Smart Watch,Wearables,1,199.99,199.99,2025-07-17
+36,65,10,Smart Watch,Wearables,4,199.99,799.96,2025-09-28
+37,185,9,SSD,Storage,1,109.99,109.99,2025-12-15
+38,197,2,Phone,Electronics,5,699.99,3499.95,2025-05-17
+39,112,6,Mouse,Accessories,1,29.99,29.99,2025-05-31
+40,185,3,Tablet,Electronics,4,399.99,1599.96,2025-01-02
+41,130,5,Keyboard,Accessories,5,49.99,249.95,2025-04-02
+42,130,2,Phone,Electronics,3,699.99,2099.97,2025-11-24
+43,96,10,Smart Watch,Wearables,2,199.99,399.98,2025-03-20
+44,1,3,Tablet,Electronics,5,399.99,1999.95,2025-09-29
+45,5,10,Smart Watch,Wearables,3,199.99,599.97,2025-09-08
+46,62,2,Phone,Electronics,3,699.99,2099.97,2025-06-07
+47,21,1,Laptop,Electronics,2,899.99,1799.98,2025-10-18
+48,195,2,Phone,Electronics,4,699.99,2799.96,2025-02-05
+49,169,9,SSD,Storage,2,109.99,219.98,2025-03-07
+50,68,8,Webcam,Accessories,5,69.99,349.95,2025-03-26
+51,55,9,SSD,Storage,5,109.99,549.95,2025-08-05
+52,103,9,SSD,Storage,2,109.99,219.98,2025-06-09
+53,116,6,Mouse,Accessories,4,29.99,119.96,2025-09-22
+54,17,2,Phone,Electronics,2,699.99,1399.98,2025-04-26
+55,142,6,Mouse,Accessories,1,29.99,29.99,2025-10-29
+56,2,4,Monitor,Electronics,5,249.99,1249.95,2025-04-23
+57,18,2,Phone,Electronics,1,699.99,699.99,2025-04-28
+58,132,1,Laptop,Electronics,3,899.99,2699.97,2025-02-06
+59,125,4,Monitor,Electronics,3,249.99,749.97,2025-12-09
+60,186,4,Monitor,Electronics,5,249.99,1249.95,2025-03-09
+61,63,10,Smart Watch,Wearables,5,199.99,999.95,2025-08-31
+62,25,8,Webcam,Accessories,4,69.99,279.96,2025-04-08
+63,109,2,Phone,Electronics,4,699.99,2799.96,2025-07-01
+64,173,7,Headphones,Accessories,4,89.99,359.96,2025-01-28
+65,187,2,Phone,Electronics,1,699.99,699.99,2025-07-26
+66,50,6,Mouse,Accessories,1,29.99,29.99,2025-05-08
+67,36,4,Monitor,Electronics,5,249.99,1249.95,2025-08-18
+68,119,7,Headphones,Accessories,2,89.99,179.98,2025-05-23
+69,141,4,Monitor,Electronics,1,249.99,249.99,2025-08-15
+70,139,2,Phone,Electronics,1,699.99,699.99,2025-11-30
+71,43,1,Laptop,Electronics,1,899.99,899.99,2025-05-02
+72,55,7,Headphones,Accessories,4,89.99,359.96,2025-09-04
+73,98,7,Headphones,Accessories,1,89.99,89.99,2025-03-26
+74,117,1,Laptop,Electronics,4,899.99,3599.96,2025-05-16
+75,188,5,Keyboard,Accessories,4,49.99,199.96,2025-12-23
+76,49,9,SSD,Storage,4,109.99,439.96,2025-03-21
+77,149,5,Keyboard,Accessories,2,49.99,99.98,2025-01-30
+78,15,9,SSD,Storage,1,109.99,109.99,2025-06-10
+79,129,1,Laptop,Electronics,5,899.99,4499.95,2025-09-02
+80,131,9,SSD,Storage,2,109.99,219.98,2025-01-30
+81,153,2,Phone,Electronics,2,699.99,1399.98,2025-02-05
+82,31,2,Phone,Electronics,2,699.99,1399.98,2025-07-26
+83,153,10,Smart Watch,Wearables,2,199.99,399.98,2025-10-24
+84,108,1,Laptop,Electronics,5,899.99,4499.95,2025-02-11
+85,81,10,Smart Watch,Wearables,5,199.99,999.95,2025-09-25
+86,184,5,Keyboard,Accessories,2,49.99,99.98,2025-12-09
+87,102,6,Mouse,Accessories,2,29.99,59.98,2025-05-16
+88,81,3,Tablet,Electronics,3,399.99,1199.97,2025-08-23
+89,160,2,Phone,Electronics,1,699.99,699.99,2025-08-23
+90,138,10,Smart Watch,Wearables,1,199.99,199.99,2025-02-07
+91,34,4,Monitor,Electronics,5,249.99,1249.95,2025-05-16
+92,95,6,Mouse,Accessories,1,29.99,29.99,2025-05-06
+93,140,5,Keyboard,Accessories,2,49.99,99.98,2025-08-13
+94,136,5,Keyboard,Accessories,5,49.99,249.95,2025-12-01
+95,170,1,Laptop,Electronics,5,899.99,4499.95,2025-06-03
+96,30,2,Phone,Electronics,2,699.99,1399.98,2025-05-16
+97,70,2,Phone,Electronics,5,699.99,3499.95,2025-03-21
+98,184,5,Keyboard,Accessories,5,49.99,249.95,2025-04-18
+99,163,6,Mouse,Accessories,2,29.99,59.98,2025-12-18
+100,65,5,Keyboard,Accessories,5,49.99,249.95,2025-09-08
+101,109,1,Laptop,Electronics,1,899.99,899.99,2025-11-21
+102,86,5,Keyboard,Accessories,1,49.99,49.99,2025-01-02
+103,190,3,Tablet,Electronics,3,399.99,1199.97,2025-03-24
+104,110,8,Webcam,Accessories,5,69.99,349.95,2025-12-28
+105,20,9,SSD,Storage,1,109.99,109.99,2025-02-27
+106,95,3,Tablet,Electronics,5,399.99,1999.95,2025-01-19
+107,111,10,Smart Watch,Wearables,5,199.99,999.95,2025-03-17
+108,94,3,Tablet,Electronics,1,399.99,399.99,2025-06-07
+109,175,1,Laptop,Electronics,3,899.99,2699.97,2025-04-18
+110,200,4,Monitor,Electronics,1,249.99,249.99,2025-07-01
+111,192,9,SSD,Storage,4,109.99,439.96,2025-11-14
+112,46,3,Tablet,Electronics,2,399.99,799.98,2025-03-25
+113,189,7,Headphones,Accessories,1,89.99,89.99,2025-04-02
+114,189,6,Mouse,Accessories,4,29.99,119.96,2025-12-09
+115,180,4,Monitor,Electronics,3,249.99,749.97,2025-03-23
+116,121,2,Phone,Electronics,4,699.99,2799.96,2025-01-20
+117,90,4,Monitor,Electronics,2,249.99,499.98,2025-08-24
+118,7,5,Keyboard,Accessories,2,49.99,99.98,2025-04-25
+119,72,4,Monitor,Electronics,4,249.99,999.96,2025-06-18
+120,165,2,Phone,Electronics,3,699.99,2099.97,2025-06-29
+121,138,9,SSD,Storage,4,109.99,439.96,2025-12-14
+122,67,6,Mouse,Accessories,1,29.99,29.99,2025-03-01
+123,10,3,Tablet,Electronics,5,399.99,1999.95,2025-05-16
+124,89,2,Phone,Electronics,5,699.99,3499.95,2025-08-11
+125,131,6,Mouse,Accessories,4,29.99,119.96,2025-11-07
+126,49,2,Phone,Electronics,4,699.99,2799.96,2025-10-23
+127,112,5,Keyboard,Accessories,1,49.99,49.99,2025-12-29
+128,176,1,Laptop,Electronics,5,899.99,4499.95,2025-10-03
+129,18,4,Monitor,Electronics,3,249.99,749.97,2025-08-09
+130,170,6,Mouse,Accessories,5,29.99,149.95,2025-06-10
+131,80,2,Phone,Electronics,3,699.99,2099.97,2025-09-17
+132,179,7,Headphones,Accessories,3,89.99,269.97,2025-07-26
+133,50,5,Keyboard,Accessories,5,49.99,249.95,2025-03-07
+134,192,7,Headphones,Accessories,4,89.99,359.96,2025-12-13
+135,78,3,Tablet,Electronics,5,399.99,1999.95,2025-10-19
+136,78,7,Headphones,Accessories,5,89.99,449.95,2025-01-01
+137,149,5,Keyboard,Accessories,2,49.99,99.98,2025-08-09
+138,114,10,Smart Watch,Wearables,3,199.99,599.97,2025-08-27
+139,122,8,Webcam,Accessories,2,69.99,139.98,2025-09-19
+140,132,3,Tablet,Electronics,1,399.99,399.99,2025-05-26
+141,193,10,Smart Watch,Wearables,3,199.99,599.97,2025-02-17
+142,51,4,Monitor,Electronics,3,249.99,749.97,2025-04-26
+143,63,3,Tablet,Electronics,1,399.99,399.99,2025-01-24
+144,117,8,Webcam,Accessories,5,69.99,349.95,2025-02-07
+145,184,7,Headphones,Accessories,5,89.99,449.95,2025-04-10
+146,63,7,Headphones,Accessories,4,89.99,359.96,2025-07-24
+147,200,3,Tablet,Electronics,1,399.99,399.99,2025-02-24
+148,179,7,Headphones,Accessories,2,89.99,179.98,2025-04-01
+149,143,9,SSD,Storage,4,109.99,439.96,2025-01-26
+150,35,4,Monitor,Electronics,1,249.99,249.99,2025-08-22
+151,153,8,Webcam,Accessories,5,69.99,349.95,2025-10-14
+152,185,6,Mouse,Accessories,4,29.99,119.96,2025-11-10
+153,115,9,SSD,Storage,4,109.99,439.96,2025-10-08
+154,67,3,Tablet,Electronics,4,399.99,1599.96,2025-08-19
+155,125,4,Monitor,Electronics,3,249.99,749.97,2025-09-24
+156,20,4,Monitor,Electronics,3,249.99,749.97,2025-08-14
+157,86,5,Keyboard,Accessories,2,49.99,99.98,2025-05-20
+158,36,6,Mouse,Accessories,5,29.99,149.95,2025-02-11
+159,178,3,Tablet,Electronics,2,399.99,799.98,2025-07-16
+160,107,3,Tablet,Electronics,2,399.99,799.98,2025-02-02
+161,120,7,Headphones,Accessories,3,89.99,269.97,2025-10-05
+162,108,7,Headphones,Accessories,1,89.99,89.99,2025-04-16
+163,6,7,Headphones,Accessories,5,89.99,449.95,2025-12-23
+164,2,10,Smart Watch,Wearables,4,199.99,799.96,2025-09-02
+165,108,6,Mouse,Accessories,3,29.99,89.97,2025-07-19
+166,57,9,SSD,Storage,5,109.99,549.95,2025-11-05
+167,112,8,Webcam,Accessories,2,69.99,139.98,2025-05-20
+168,87,8,Webcam,Accessories,1,69.99,69.99,2025-07-19
+169,33,7,Headphones,Accessories,2,89.99,179.98,2025-08-28
+170,101,10,Smart Watch,Wearables,5,199.99,999.95,2025-01-14
+171,7,10,Smart Watch,Wearables,5,199.99,999.95,2025-12-06
+172,119,2,Phone,Electronics,4,699.99,2799.96,2025-03-11
+173,98,3,Tablet,Electronics,1,399.99,399.99,2025-05-14
+174,84,6,Mouse,Accessories,2,29.99,59.98,2025-08-21
+175,193,6,Mouse,Accessories,4,29.99,119.96,2025-05-23
+176,121,7,Headphones,Accessories,3,89.99,269.97,2025-02-11
+177,90,1,Laptop,Electronics,5,899.99,4499.95,2025-01-27
+178,11,4,Monitor,Electronics,1,249.99,249.99,2025-11-30
+179,6,1,Laptop,Electronics,2,899.99,1799.98,2025-04-13
+180,33,10,Smart Watch,Wearables,2,199.99,399.98,2025-05-03
+181,56,8,Webcam,Accessories,1,69.99,69.99,2025-10-16
+182,43,8,Webcam,Accessories,3,69.99,209.97,2025-07-08
+183,200,10,Smart Watch,Wearables,5,199.99,999.95,2025-02-28
+184,149,3,Tablet,Electronics,3,399.99,1199.97,2025-02-25
+185,174,1,Laptop,Electronics,3,899.99,2699.97,2025-10-22
+186,20,7,Headphones,Accessories,4,89.99,359.96,2025-04-12
+187,179,10,Smart Watch,Wearables,2,199.99,399.98,2025-02-22
+188,145,5,Keyboard,Accessories,5,49.99,249.95,2025-03-03
+189,110,1,Laptop,Electronics,3,899.99,2699.97,2025-09-30
+190,166,6,Mouse,Accessories,1,29.99,29.99,2025-09-17
+191,126,6,Mouse,Accessories,1,29.99,29.99,2025-08-04
+192,163,2,Phone,Electronics,4,699.99,2799.96,2025-07-05
+193,46,8,Webcam,Accessories,2,69.99,139.98,2025-08-11
+194,138,9,SSD,Storage,3,109.99,329.97,2025-11-12
+195,188,8,Webcam,Accessories,4,69.99,279.96,2025-08-12
+196,63,10,Smart Watch,Wearables,3,199.99,599.97,2025-06-15
+197,63,2,Phone,Electronics,3,699.99,2099.97,2025-08-19
+198,172,8,Webcam,Accessories,5,69.99,349.95,2025-11-09
+199,127,7,Headphones,Accessories,3,89.99,269.97,2025-01-15
+200,55,6,Mouse,Accessories,2,29.99,59.98,2025-09-07
+201,72,6,Mouse,Accessories,3,29.99,89.97,2025-06-24
+202,3,10,Smart Watch,Wearables,3,199.99,599.97,2025-10-12
+203,62,9,SSD,Storage,2,109.99,219.98,2025-02-13
+204,195,7,Headphones,Accessories,4,89.99,359.96,2025-10-12
+205,183,4,Monitor,Electronics,4,249.99,999.96,2025-11-27
+206,24,8,Webcam,Accessories,4,69.99,279.96,2025-01-09
+207,178,5,Keyboard,Accessories,2,49.99,99.98,2025-07-27
+208,149,4,Monitor,Electronics,3,249.99,749.97,2025-12-06
+209,136,6,Mouse,Accessories,4,29.99,119.96,2025-10-11
+210,85,6,Mouse,Accessories,4,29.99,119.96,2025-10-09
+211,79,6,Mouse,Accessories,4,29.99,119.96,2025-05-19
+212,185,5,Keyboard,Accessories,2,49.99,99.98,2025-03-03
+213,191,4,Monitor,Electronics,3,249.99,749.97,2025-03-03
+214,56,9,SSD,Storage,2,109.99,219.98,2025-04-09
+215,195,8,Webcam,Accessories,3,69.99,209.97,2025-10-29
+216,26,9,SSD,Storage,5,109.99,549.95,2025-05-25
+217,93,4,Monitor,Electronics,3,249.99,749.97,2025-04-27
+218,182,3,Tablet,Electronics,3,399.99,1199.97,2025-01-08
+219,12,9,SSD,Storage,2,109.99,219.98,2025-05-21
+220,179,1,Laptop,Electronics,5,899.99,4499.95,2025-05-30
+221,4,3,Tablet,Electronics,4,399.99,1599.96,2025-02-22
+222,123,10,Smart Watch,Wearables,3,199.99,599.97,2025-08-29
+223,14,8,Webcam,Accessories,3,69.99,209.97,2025-04-05
+224,17,5,Keyboard,Accessories,4,49.99,199.96,2025-02-28
+225,148,7,Headphones,Accessories,4,89.99,359.96,2025-02-07
+226,145,1,Laptop,Electronics,2,899.99,1799.98,2025-03-18
+227,31,5,Keyboard,Accessories,1,49.99,49.99,2025-05-08
+228,153,9,SSD,Storage,4,109.99,439.96,2025-11-07
+229,98,10,Smart Watch,Wearables,2,199.99,399.98,2025-09-25
+230,151,8,Webcam,Accessories,4,69.99,279.96,2025-06-02
+231,159,7,Headphones,Accessories,3,89.99,269.97,2025-10-19
+232,196,1,Laptop,Electronics,5,899.99,4499.95,2025-02-20
+233,170,4,Monitor,Electronics,2,249.99,499.98,2025-05-16
+234,45,2,Phone,Electronics,2,699.99,1399.98,2025-05-03
+235,1,9,SSD,Storage,1,109.99,109.99,2025-03-22
+236,153,7,Headphones,Accessories,4,89.99,359.96,2025-12-19
+237,60,8,Webcam,Accessories,3,69.99,209.97,2025-01-17
+238,117,5,Keyboard,Accessories,3,49.99,149.97,2025-12-26
+239,161,2,Phone,Electronics,2,699.99,1399.98,2025-05-16
+240,30,10,Smart Watch,Wearables,2,199.99,399.98,2025-08-06
+241,39,9,SSD,Storage,2,109.99,219.98,2025-11-28
+242,16,5,Keyboard,Accessories,2,49.99,99.98,2025-02-06
+243,192,3,Tablet,Electronics,3,399.99,1199.97,2025-11-01
+244,32,10,Smart Watch,Wearables,3,199.99,599.97,2025-08-13
+245,104,8,Webcam,Accessories,3,69.99,209.97,2025-12-25
+246,127,5,Keyboard,Accessories,5,49.99,249.95,2025-10-04
+247,11,8,Webcam,Accessories,1,69.99,69.99,2025-11-03
+248,65,7,Headphones,Accessories,3,89.99,269.97,2025-11-06
+249,173,1,Laptop,Electronics,1,899.99,899.99,2025-04-28
+250,196,10,Smart Watch,Wearables,5,199.99,999.95,2025-01-11
+251,196,5,Keyboard,Accessories,5,49.99,249.95,2025-01-21
+252,167,3,Tablet,Electronics,4,399.99,1599.96,2025-09-23
+253,150,8,Webcam,Accessories,3,69.99,209.97,2025-04-03
+254,121,7,Headphones,Accessories,4,89.99,359.96,2025-02-16
+255,83,6,Mouse,Accessories,4,29.99,119.96,2025-06-20
+256,106,2,Phone,Electronics,2,699.99,1399.98,2025-06-18
+257,103,8,Webcam,Accessories,3,69.99,209.97,2025-12-06
+258,23,9,SSD,Storage,1,109.99,109.99,2025-08-21
+259,30,6,Mouse,Accessories,3,29.99,89.97,2025-06-15
+260,169,7,Headphones,Accessories,5,89.99,449.95,2025-01-01
+261,14,9,SSD,Storage,4,109.99,439.96,2025-07-31
+262,160,4,Monitor,Electronics,5,249.99,1249.95,2025-07-05
+263,53,8,Webcam,Accessories,4,69.99,279.96,2025-01-27
+264,74,5,Keyboard,Accessories,5,49.99,249.95,2025-03-09
+265,8,8,Webcam,Accessories,4,69.99,279.96,2025-03-04
+266,41,10,Smart Watch,Wearables,2,199.99,399.98,2025-12-30
+267,142,5,Keyboard,Accessories,5,49.99,249.95,2025-01-08
+268,30,7,Headphones,Accessories,1,89.99,89.99,2025-04-26
+269,40,8,Webcam,Accessories,1,69.99,69.99,2025-11-28
+270,181,8,Webcam,Accessories,3,69.99,209.97,2025-09-18
+271,121,5,Keyboard,Accessories,4,49.99,199.96,2025-09-05
+272,38,4,Monitor,Electronics,4,249.99,999.96,2025-10-10
+273,131,7,Headphones,Accessories,2,89.99,179.98,2025-11-03
+274,198,3,Tablet,Electronics,1,399.99,399.99,2025-05-22
+275,69,7,Headphones,Accessories,3,89.99,269.97,2025-09-17
+276,151,1,Laptop,Electronics,3,899.99,2699.97,2025-06-02
+277,115,10,Smart Watch,Wearables,4,199.99,799.96,2025-03-18
+278,86,9,SSD,Storage,4,109.99,439.96,2025-06-26
+279,117,9,SSD,Storage,5,109.99,549.95,2025-07-13
+280,62,6,Mouse,Accessories,2,29.99,59.98,2025-12-24
+281,199,10,Smart Watch,Wearables,4,199.99,799.96,2025-04-30
+282,191,7,Headphones,Accessories,1,89.99,89.99,2025-06-12
+283,170,8,Webcam,Accessories,4,69.99,279.96,2025-07-17
+284,33,3,Tablet,Electronics,4,399.99,1599.96,2025-01-19
+285,26,9,SSD,Storage,5,109.99,549.95,2025-06-19
+286,117,8,Webcam,Accessories,1,69.99,69.99,2025-09-27
+287,168,1,Laptop,Electronics,2,899.99,1799.98,2025-07-29
+288,68,3,Tablet,Electronics,1,399.99,399.99,2025-08-29
+289,102,6,Mouse,Accessories,5,29.99,149.95,2025-12-21
+290,137,2,Phone,Electronics,3,699.99,2099.97,2025-12-12
+291,184,7,Headphones,Accessories,3,89.99,269.97,2025-11-17
+292,159,8,Webcam,Accessories,5,69.99,349.95,2025-01-19
+293,176,2,Phone,Electronics,2,699.99,1399.98,2025-11-20
+294,112,5,Keyboard,Accessories,2,49.99,99.98,2025-02-16
+295,43,2,Phone,Electronics,1,699.99,699.99,2025-08-16
+296,84,5,Keyboard,Accessories,1,49.99,49.99,2025-01-24
+297,96,1,Laptop,Electronics,3,899.99,2699.97,2025-07-03
+298,136,7,Headphones,Accessories,2,89.99,179.98,2025-05-06
+299,47,7,Headphones,Accessories,5,89.99,449.95,2025-12-16
+300,157,3,Tablet,Electronics,2,399.99,799.98,2025-02-10
+301,62,7,Headphones,Accessories,5,89.99,449.95,2025-12-16
+302,60,8,Webcam,Accessories,5,69.99,349.95,2025-03-15
+303,66,8,Webcam,Accessories,3,69.99,209.97,2025-08-24
+304,174,1,Laptop,Electronics,4,899.99,3599.96,2025-05-28
+305,114,9,SSD,Storage,2,109.99,219.98,2025-02-07
+306,164,6,Mouse,Accessories,5,29.99,149.95,2025-06-03
+307,78,7,Headphones,Accessories,3,89.99,269.97,2025-08-22
+308,28,4,Monitor,Electronics,4,249.99,999.96,2025-09-05
+309,92,4,Monitor,Electronics,4,249.99,999.96,2025-10-20
+310,76,10,Smart Watch,Wearables,3,199.99,599.97,2025-12-25
+311,3,1,Laptop,Electronics,4,899.99,3599.96,2025-05-21
+312,191,10,Smart Watch,Wearables,1,199.99,199.99,2025-11-07
+313,156,8,Webcam,Accessories,3,69.99,209.97,2025-04-28
+314,49,6,Mouse,Accessories,2,29.99,59.98,2025-11-22
+315,194,10,Smart Watch,Wearables,3,199.99,599.97,2025-12-14
+316,166,3,Tablet,Electronics,1,399.99,399.99,2025-11-18
+317,9,1,Laptop,Electronics,3,899.99,2699.97,2025-08-14
+318,24,10,Smart Watch,Wearables,3,199.99,599.97,2025-03-09
+319,45,5,Keyboard,Accessories,3,49.99,149.97,2025-08-01
+320,94,4,Monitor,Electronics,2,249.99,499.98,2025-10-04
+321,43,9,SSD,Storage,5,109.99,549.95,2025-05-20
+322,192,5,Keyboard,Accessories,4,49.99,199.96,2025-06-01
+323,20,6,Mouse,Accessories,1,29.99,29.99,2025-08-28
+324,186,3,Tablet,Electronics,2,399.99,799.98,2025-12-13
+325,24,7,Headphones,Accessories,5,89.99,449.95,2025-07-07
+326,138,7,Headphones,Accessories,1,89.99,89.99,2025-05-16
+327,173,2,Phone,Electronics,4,699.99,2799.96,2025-07-08
+328,164,5,Keyboard,Accessories,5,49.99,249.95,2025-07-15
+329,60,6,Mouse,Accessories,1,29.99,29.99,2025-12-12
+330,144,8,Webcam,Accessories,1,69.99,69.99,2025-11-14
+331,166,6,Mouse,Accessories,5,29.99,149.95,2025-04-24
+332,78,2,Phone,Electronics,4,699.99,2799.96,2025-12-25
+333,12,7,Headphones,Accessories,1,89.99,89.99,2025-03-13
+334,30,1,Laptop,Electronics,3,899.99,2699.97,2025-09-10
+335,35,2,Phone,Electronics,2,699.99,1399.98,2025-10-03
+336,172,7,Headphones,Accessories,4,89.99,359.96,2025-07-09
+337,191,9,SSD,Storage,4,109.99,439.96,2025-10-28
+338,26,3,Tablet,Electronics,4,399.99,1599.96,2025-12-02
+339,72,8,Webcam,Accessories,5,69.99,349.95,2025-07-28
+340,114,1,Laptop,Electronics,3,899.99,2699.97,2025-04-22
+341,26,8,Webcam,Accessories,2,69.99,139.98,2025-07-05
+342,92,6,Mouse,Accessories,5,29.99,149.95,2025-11-27
+343,49,1,Laptop,Electronics,4,899.99,3599.96,2025-05-22
+344,170,2,Phone,Electronics,4,699.99,2799.96,2025-02-16
+345,13,4,Monitor,Electronics,5,249.99,1249.95,2025-01-11
+346,145,6,Mouse,Accessories,2,29.99,59.98,2025-03-06
+347,54,4,Monitor,Electronics,1,249.99,249.99,2025-10-11
+348,85,10,Smart Watch,Wearables,2,199.99,399.98,2025-04-30
+349,71,3,Tablet,Electronics,5,399.99,1999.95,2025-01-02
+350,65,3,Tablet,Electronics,2,399.99,799.98,2025-10-04
+351,7,3,Tablet,Electronics,1,399.99,399.99,2025-12-05
+352,61,3,Tablet,Electronics,1,399.99,399.99,2025-07-03
+353,45,10,Smart Watch,Wearables,3,199.99,599.97,2025-01-09
+354,190,5,Keyboard,Accessories,1,49.99,49.99,2025-03-06
+355,191,7,Headphones,Accessories,5,89.99,449.95,2025-02-28
+356,200,2,Phone,Electronics,4,699.99,2799.96,2025-08-18
+357,28,6,Mouse,Accessories,5,29.99,149.95,2025-10-31
+358,158,8,Webcam,Accessories,5,69.99,349.95,2025-04-24
+359,118,1,Laptop,Electronics,5,899.99,4499.95,2025-06-04
+360,103,1,Laptop,Electronics,1,899.99,899.99,2025-09-03
+361,183,7,Headphones,Accessories,1,89.99,89.99,2025-09-09
+362,83,8,Webcam,Accessories,1,69.99,69.99,2025-02-11
+363,33,10,Smart Watch,Wearables,2,199.99,399.98,2025-02-03
+364,150,5,Keyboard,Accessories,5,49.99,249.95,2025-11-21
+365,153,9,SSD,Storage,3,109.99,329.97,2025-07-15
+366,130,9,SSD,Storage,3,109.99,329.97,2025-08-21
+367,180,10,Smart Watch,Wearables,4,199.99,799.96,2025-02-20
+368,111,2,Phone,Electronics,5,699.99,3499.95,2025-04-21
+369,87,8,Webcam,Accessories,2,69.99,139.98,2025-07-31
+370,187,8,Webcam,Accessories,4,69.99,279.96,2025-08-01
+371,81,2,Phone,Electronics,3,699.99,2099.97,2025-08-07
+372,176,5,Keyboard,Accessories,3,49.99,149.97,2025-03-20
+373,22,8,Webcam,Accessories,1,69.99,69.99,2025-02-16
+374,191,2,Phone,Electronics,4,699.99,2799.96,2025-02-19
+375,16,6,Mouse,Accessories,2,29.99,59.98,2025-10-12
+376,85,10,Smart Watch,Wearables,5,199.99,999.95,2025-10-15
+377,171,2,Phone,Electronics,4,699.99,2799.96,2025-07-01
+378,154,7,Headphones,Accessories,1,89.99,89.99,2025-05-28
+379,148,5,Keyboard,Accessories,3,49.99,149.97,2025-02-23
+380,169,9,SSD,Storage,2,109.99,219.98,2025-03-21
+381,90,8,Webcam,Accessories,2,69.99,139.98,2025-02-25
+382,196,9,SSD,Storage,3,109.99,329.97,2025-02-28
+383,110,5,Keyboard,Accessories,5,49.99,249.95,2025-04-26
+384,173,9,SSD,Storage,5,109.99,549.95,2025-11-11
+385,169,9,SSD,Storage,1,109.99,109.99,2025-11-08
+386,70,5,Keyboard,Accessories,1,49.99,49.99,2025-04-03
+387,2,5,Keyboard,Accessories,3,49.99,149.97,2025-06-29
+388,169,3,Tablet,Electronics,2,399.99,799.98,2025-10-17
+389,190,7,Headphones,Accessories,1,89.99,89.99,2025-03-14
+390,56,1,Laptop,Electronics,1,899.99,899.99,2025-09-29
+391,88,7,Headphones,Accessories,4,89.99,359.96,2025-08-21
+392,185,3,Tablet,Electronics,3,399.99,1199.97,2025-06-09
+393,22,6,Mouse,Accessories,5,29.99,149.95,2025-11-02
+394,194,1,Laptop,Electronics,2,899.99,1799.98,2025-03-22
+395,21,10,Smart Watch,Wearables,1,199.99,199.99,2025-12-12
+396,109,5,Keyboard,Accessories,4,49.99,199.96,2025-12-05
+397,107,8,Webcam,Accessories,5,69.99,349.95,2025-08-15
+398,30,5,Keyboard,Accessories,2,49.99,99.98,2025-09-20
+399,73,6,Mouse,Accessories,4,29.99,119.96,2025-02-26
+400,171,10,Smart Watch,Wearables,4,199.99,799.96,2025-09-27
+401,102,5,Keyboard,Accessories,1,49.99,49.99,2025-04-23
+402,53,10,Smart Watch,Wearables,1,199.99,199.99,2025-01-04
+403,196,5,Keyboard,Accessories,2,49.99,99.98,2025-03-12
+404,31,5,Keyboard,Accessories,3,49.99,149.97,2025-06-17
+405,45,1,Laptop,Electronics,4,899.99,3599.96,2025-08-09
+406,181,3,Tablet,Electronics,4,399.99,1599.96,2025-09-30
+407,172,4,Monitor,Electronics,5,249.99,1249.95,2025-10-14
+408,190,6,Mouse,Accessories,1,29.99,29.99,2025-07-23
+409,118,1,Laptop,Electronics,4,899.99,3599.96,2025-01-10
+410,110,2,Phone,Electronics,3,699.99,2099.97,2025-10-22
+411,164,10,Smart Watch,Wearables,4,199.99,799.96,2025-12-30
+412,104,7,Headphones,Accessories,3,89.99,269.97,2025-02-28
+413,159,1,Laptop,Electronics,3,899.99,2699.97,2025-03-29
+414,112,8,Webcam,Accessories,3,69.99,209.97,2025-02-15
+415,151,2,Phone,Electronics,2,699.99,1399.98,2025-08-12
+416,102,7,Headphones,Accessories,5,89.99,449.95,2025-02-10
+417,86,5,Keyboard,Accessories,3,49.99,149.97,2025-04-24
+418,163,3,Tablet,Electronics,1,399.99,399.99,2025-09-19
+419,50,2,Phone,Electronics,5,699.99,3499.95,2025-09-19
+420,38,6,Mouse,Accessories,3,29.99,89.97,2025-11-27
+421,66,4,Monitor,Electronics,1,249.99,249.99,2025-03-16
+422,40,4,Monitor,Electronics,2,249.99,499.98,2025-11-05
+423,127,2,Phone,Electronics,2,699.99,1399.98,2025-11-18
+424,115,8,Webcam,Accessories,5,69.99,349.95,2025-10-24
+425,161,10,Smart Watch,Wearables,5,199.99,999.95,2025-06-15
+426,18,6,Mouse,Accessories,2,29.99,59.98,2025-08-14
+427,78,8,Webcam,Accessories,4,69.99,279.96,2025-11-20
+428,91,5,Keyboard,Accessories,5,49.99,249.95,2025-01-29
+429,119,9,SSD,Storage,1,109.99,109.99,2025-06-08
+430,95,8,Webcam,Accessories,1,69.99,69.99,2025-01-30
+431,24,5,Keyboard,Accessories,1,49.99,49.99,2025-11-27
+432,99,10,Smart Watch,Wearables,5,199.99,999.95,2025-09-17
+433,190,8,Webcam,Accessories,5,69.99,349.95,2025-10-11
+434,167,1,Laptop,Electronics,4,899.99,3599.96,2025-10-20
+435,122,4,Monitor,Electronics,3,249.99,749.97,2025-11-06
+436,116,9,SSD,Storage,2,109.99,219.98,2025-02-01
+437,130,2,Phone,Electronics,3,699.99,2099.97,2025-02-13
+438,182,3,Tablet,Electronics,1,399.99,399.99,2025-05-07
+439,134,8,Webcam,Accessories,4,69.99,279.96,2025-09-26
+440,96,10,Smart Watch,Wearables,2,199.99,399.98,2025-07-06
+441,199,5,Keyboard,Accessories,4,49.99,199.96,2025-07-29
+442,162,6,Mouse,Accessories,5,29.99,149.95,2025-01-27
+443,25,6,Mouse,Accessories,1,29.99,29.99,2025-06-18
+444,65,9,SSD,Storage,4,109.99,439.96,2025-05-26
+445,21,10,Smart Watch,Wearables,2,199.99,399.98,2025-06-20
+446,80,10,Smart Watch,Wearables,2,199.99,399.98,2025-06-29
+447,182,7,Headphones,Accessories,2,89.99,179.98,2025-11-01
+448,97,2,Phone,Electronics,3,699.99,2099.97,2025-10-14
+449,180,6,Mouse,Accessories,2,29.99,59.98,2025-12-10
+450,172,9,SSD,Storage,1,109.99,109.99,2025-11-27
+451,5,7,Headphones,Accessories,5,89.99,449.95,2025-07-05
+452,55,6,Mouse,Accessories,3,29.99,89.97,2025-04-03
+453,58,6,Mouse,Accessories,4,29.99,119.96,2025-04-09
+454,76,3,Tablet,Electronics,2,399.99,799.98,2025-02-09
+455,190,2,Phone,Electronics,5,699.99,3499.95,2025-10-04
+456,87,9,SSD,Storage,1,109.99,109.99,2025-12-05
+457,97,10,Smart Watch,Wearables,2,199.99,399.98,2025-11-02
+458,178,3,Tablet,Electronics,2,399.99,799.98,2025-04-03
+459,12,10,Smart Watch,Wearables,2,199.99,399.98,2025-08-13
+460,185,7,Headphones,Accessories,3,89.99,269.97,2025-12-13
+461,73,4,Monitor,Electronics,4,249.99,999.96,2025-11-09
+462,62,8,Webcam,Accessories,2,69.99,139.98,2025-10-01
+463,95,5,Keyboard,Accessories,4,49.99,199.96,2025-04-10
+464,197,10,Smart Watch,Wearables,4,199.99,799.96,2025-08-25
+465,136,5,Keyboard,Accessories,4,49.99,199.96,2025-09-15
+466,155,7,Headphones,Accessories,2,89.99,179.98,2025-04-13
+467,165,3,Tablet,Electronics,3,399.99,1199.97,2025-01-27
+468,27,8,Webcam,Accessories,3,69.99,209.97,2025-10-11
+469,22,9,SSD,Storage,1,109.99,109.99,2025-05-26
+470,132,3,Tablet,Electronics,3,399.99,1199.97,2025-08-19
+471,57,3,Tablet,Electronics,4,399.99,1599.96,2025-02-16
+472,107,8,Webcam,Accessories,3,69.99,209.97,2025-01-14
+473,96,1,Laptop,Electronics,4,899.99,3599.96,2025-09-15
+474,96,4,Monitor,Electronics,4,249.99,999.96,2025-02-11
+475,26,4,Monitor,Electronics,1,249.99,249.99,2025-06-13
+476,10,6,Mouse,Accessories,2,29.99,59.98,2025-03-12
+477,36,5,Keyboard,Accessories,4,49.99,199.96,2025-12-23
+478,2,8,Webcam,Accessories,4,69.99,279.96,2025-11-12
+479,56,2,Phone,Electronics,1,699.99,699.99,2025-05-12
+480,136,3,Tablet,Electronics,5,399.99,1999.95,2025-11-08
+481,61,7,Headphones,Accessories,1,89.99,89.99,2025-05-28
+482,62,5,Keyboard,Accessories,1,49.99,49.99,2025-01-25
+483,17,7,Headphones,Accessories,5,89.99,449.95,2025-08-23
+484,138,2,Phone,Electronics,4,699.99,2799.96,2025-11-02
+485,62,1,Laptop,Electronics,5,899.99,4499.95,2025-10-22
+486,1,3,Tablet,Electronics,3,399.99,1199.97,2025-08-08
+487,147,10,Smart Watch,Wearables,3,199.99,599.97,2025-05-04
+488,172,7,Headphones,Accessories,2,89.99,179.98,2025-12-07
+489,18,2,Phone,Electronics,5,699.99,3499.95,2025-07-04
+490,130,9,SSD,Storage,5,109.99,549.95,2025-09-17
+491,121,9,SSD,Storage,1,109.99,109.99,2025-07-19
+492,65,1,Laptop,Electronics,4,899.99,3599.96,2025-07-11
+493,89,1,Laptop,Electronics,3,899.99,2699.97,2025-02-04
+494,189,4,Monitor,Electronics,1,249.99,249.99,2025-10-25
+495,91,6,Mouse,Accessories,2,29.99,59.98,2025-01-23
+496,45,9,SSD,Storage,3,109.99,329.97,2025-11-26
+497,47,8,Webcam,Accessories,4,69.99,279.96,2025-11-20
+498,10,3,Tablet,Electronics,1,399.99,399.99,2025-08-23
+499,52,5,Keyboard,Accessories,2,49.99,99.98,2025-01-23
+500,132,1,Laptop,Electronics,3,899.99,2699.97,2025-06-08
+501,65,7,Headphones,Accessories,5,89.99,449.95,2025-08-31
+502,92,1,Laptop,Electronics,2,899.99,1799.98,2025-05-27
+503,32,1,Laptop,Electronics,3,899.99,2699.97,2025-05-20
+504,191,6,Mouse,Accessories,4,29.99,119.96,2025-07-24
+505,48,8,Webcam,Accessories,4,69.99,279.96,2025-06-23
+506,133,8,Webcam,Accessories,4,69.99,279.96,2025-07-08
+507,21,5,Keyboard,Accessories,1,49.99,49.99,2025-08-06
+508,140,7,Headphones,Accessories,5,89.99,449.95,2025-04-03
+509,21,5,Keyboard,Accessories,3,49.99,149.97,2025-02-22
+510,115,6,Mouse,Accessories,3,29.99,89.97,2025-06-06
+511,177,10,Smart Watch,Wearables,4,199.99,799.96,2025-03-27
+512,11,8,Webcam,Accessories,3,69.99,209.97,2025-08-17
+513,71,6,Mouse,Accessories,5,29.99,149.95,2025-08-11
+514,164,1,Laptop,Electronics,1,899.99,899.99,2025-12-10
+515,192,7,Headphones,Accessories,3,89.99,269.97,2025-09-20
+516,156,3,Tablet,Electronics,1,399.99,399.99,2025-03-15
+517,18,8,Webcam,Accessories,1,69.99,69.99,2025-03-06
+518,99,4,Monitor,Electronics,3,249.99,749.97,2025-07-05
+519,40,10,Smart Watch,Wearables,1,199.99,199.99,2025-11-06
+520,114,8,Webcam,Accessories,3,69.99,209.97,2025-07-10
+521,136,2,Phone,Electronics,5,699.99,3499.95,2025-03-12
+522,167,6,Mouse,Accessories,4,29.99,119.96,2025-06-10
+523,7,5,Keyboard,Accessories,2,49.99,99.98,2025-02-28
+524,100,3,Tablet,Electronics,4,399.99,1599.96,2025-09-23
+525,199,9,SSD,Storage,1,109.99,109.99,2025-05-15
+526,157,5,Keyboard,Accessories,4,49.99,199.96,2025-04-20
+527,32,5,Keyboard,Accessories,4,49.99,199.96,2025-04-13
+528,45,3,Tablet,Electronics,1,399.99,399.99,2025-08-20
+529,82,8,Webcam,Accessories,1,69.99,69.99,2025-12-16
+530,139,6,Mouse,Accessories,1,29.99,29.99,2025-10-09
+531,183,5,Keyboard,Accessories,3,49.99,149.97,2025-03-22
+532,58,3,Tablet,Electronics,3,399.99,1199.97,2025-09-18
+533,61,2,Phone,Electronics,2,699.99,1399.98,2025-03-13
+534,142,8,Webcam,Accessories,1,69.99,69.99,2025-07-04
+535,142,10,Smart Watch,Wearables,3,199.99,599.97,2025-08-28
+536,17,3,Tablet,Electronics,5,399.99,1999.95,2025-02-14
+537,135,5,Keyboard,Accessories,4,49.99,199.96,2025-09-03
+538,19,7,Headphones,Accessories,4,89.99,359.96,2025-10-22
+539,19,3,Tablet,Electronics,3,399.99,1199.97,2025-11-25
+540,133,8,Webcam,Accessories,4,69.99,279.96,2025-12-15
+541,164,6,Mouse,Accessories,2,29.99,59.98,2025-10-10
+542,111,10,Smart Watch,Wearables,2,199.99,399.98,2025-03-08
+543,133,9,SSD,Storage,1,109.99,109.99,2025-03-05
+544,42,3,Tablet,Electronics,3,399.99,1199.97,2025-03-26
+545,133,6,Mouse,Accessories,2,29.99,59.98,2025-06-27
+546,51,5,Keyboard,Accessories,1,49.99,49.99,2025-05-09
+547,161,9,SSD,Storage,3,109.99,329.97,2025-03-06
+548,24,5,Keyboard,Accessories,5,49.99,249.95,2025-10-01
+549,149,9,SSD,Storage,2,109.99,219.98,2025-10-31
+550,160,3,Tablet,Electronics,2,399.99,799.98,2025-12-04
+551,11,10,Smart Watch,Wearables,3,199.99,599.97,2025-10-16
+552,165,1,Laptop,Electronics,1,899.99,899.99,2025-01-24
+553,54,10,Smart Watch,Wearables,3,199.99,599.97,2025-11-30
+554,164,10,Smart Watch,Wearables,4,199.99,799.96,2025-11-13
+555,140,1,Laptop,Electronics,4,899.99,3599.96,2025-11-18
+556,63,5,Keyboard,Accessories,3,49.99,149.97,2025-09-05
+557,19,7,Headphones,Accessories,3,89.99,269.97,2025-08-21
+558,107,1,Laptop,Electronics,2,899.99,1799.98,2025-08-14
+559,88,8,Webcam,Accessories,4,69.99,279.96,2025-04-15
+560,184,10,Smart Watch,Wearables,2,199.99,399.98,2025-06-10
+561,34,6,Mouse,Accessories,3,29.99,89.97,2025-07-24
+562,28,6,Mouse,Accessories,5,29.99,149.95,2025-10-15
+563,32,6,Mouse,Accessories,2,29.99,59.98,2025-08-27
+564,37,5,Keyboard,Accessories,4,49.99,199.96,2025-05-07
+565,99,2,Phone,Electronics,1,699.99,699.99,2025-05-29
+566,41,10,Smart Watch,Wearables,4,199.99,799.96,2025-05-08
+567,49,6,Mouse,Accessories,5,29.99,149.95,2025-06-10
+568,120,3,Tablet,Electronics,4,399.99,1599.96,2025-09-21
+569,6,8,Webcam,Accessories,3,69.99,209.97,2025-09-12
+570,118,2,Phone,Electronics,4,699.99,2799.96,2025-09-16
+571,91,4,Monitor,Electronics,2,249.99,499.98,2025-10-26
+572,127,1,Laptop,Electronics,1,899.99,899.99,2025-05-25
+573,138,10,Smart Watch,Wearables,4,199.99,799.96,2025-05-27
+574,35,1,Laptop,Electronics,1,899.99,899.99,2025-08-09
+575,94,5,Keyboard,Accessories,3,49.99,149.97,2025-07-26
+576,146,1,Laptop,Electronics,4,899.99,3599.96,2025-01-27
+577,142,9,SSD,Storage,2,109.99,219.98,2025-07-05
+578,130,5,Keyboard,Accessories,1,49.99,49.99,2025-07-17
+579,160,8,Webcam,Accessories,5,69.99,349.95,2025-05-24
+580,25,10,Smart Watch,Wearables,1,199.99,199.99,2025-03-07
+581,143,7,Headphones,Accessories,3,89.99,269.97,2025-06-23
+582,155,6,Mouse,Accessories,2,29.99,59.98,2025-04-12
+583,11,9,SSD,Storage,4,109.99,439.96,2025-09-14
+584,183,1,Laptop,Electronics,1,899.99,899.99,2025-03-12
+585,117,6,Mouse,Accessories,4,29.99,119.96,2025-09-23
+586,36,3,Tablet,Electronics,5,399.99,1999.95,2025-09-21
+587,42,6,Mouse,Accessories,5,29.99,149.95,2025-06-13
+588,152,7,Headphones,Accessories,5,89.99,449.95,2025-06-03
+589,137,6,Mouse,Accessories,5,29.99,149.95,2025-09-18
+590,122,8,Webcam,Accessories,5,69.99,349.95,2025-06-03
+591,173,1,Laptop,Electronics,3,899.99,2699.97,2025-06-19
+592,79,2,Phone,Electronics,4,699.99,2799.96,2025-10-26
+593,68,1,Laptop,Electronics,5,899.99,4499.95,2025-08-31
+594,185,10,Smart Watch,Wearables,5,199.99,999.95,2025-04-27
+595,44,1,Laptop,Electronics,5,899.99,4499.95,2025-09-03
+596,38,9,SSD,Storage,5,109.99,549.95,2025-07-14
+597,180,4,Monitor,Electronics,1,249.99,249.99,2025-10-21
+598,113,2,Phone,Electronics,2,699.99,1399.98,2025-01-10
+599,106,6,Mouse,Accessories,4,29.99,119.96,2025-03-19
+600,199,4,Monitor,Electronics,4,249.99,999.96,2025-09-14
+601,181,10,Smart Watch,Wearables,4,199.99,799.96,2025-02-01
+602,144,3,Tablet,Electronics,5,399.99,1999.95,2025-04-17
+603,97,6,Mouse,Accessories,4,29.99,119.96,2025-09-27
+604,137,6,Mouse,Accessories,2,29.99,59.98,2025-08-24
+605,174,6,Mouse,Accessories,5,29.99,149.95,2025-07-01
+606,50,5,Keyboard,Accessories,5,49.99,249.95,2025-09-05
+607,77,4,Monitor,Electronics,3,249.99,749.97,2025-10-13
+608,181,4,Monitor,Electronics,3,249.99,749.97,2025-05-28
+609,123,4,Monitor,Electronics,4,249.99,999.96,2025-06-12
+610,74,6,Mouse,Accessories,5,29.99,149.95,2025-05-21
+611,140,2,Phone,Electronics,5,699.99,3499.95,2025-12-13
+612,198,7,Headphones,Accessories,4,89.99,359.96,2025-06-26
+613,74,3,Tablet,Electronics,3,399.99,1199.97,2025-01-22
+614,168,2,Phone,Electronics,3,699.99,2099.97,2025-08-15
+615,52,5,Keyboard,Accessories,4,49.99,199.96,2025-04-20
+616,179,9,SSD,Storage,3,109.99,329.97,2025-10-15
+617,158,5,Keyboard,Accessories,2,49.99,99.98,2025-02-25
+618,13,10,Smart Watch,Wearables,2,199.99,399.98,2025-05-05
+619,60,9,SSD,Storage,2,109.99,219.98,2025-11-23
+620,85,1,Laptop,Electronics,1,899.99,899.99,2025-07-31
+621,198,8,Webcam,Accessories,1,69.99,69.99,2025-12-15
+622,41,3,Tablet,Electronics,1,399.99,399.99,2025-10-09
+623,167,7,Headphones,Accessories,4,89.99,359.96,2025-09-02
+624,74,4,Monitor,Electronics,3,249.99,749.97,2025-06-14
+625,147,1,Laptop,Electronics,1,899.99,899.99,2025-11-30
+626,45,4,Monitor,Electronics,5,249.99,1249.95,2025-01-20
+627,102,7,Headphones,Accessories,2,89.99,179.98,2025-01-19
+628,10,8,Webcam,Accessories,2,69.99,139.98,2025-05-29
+629,155,1,Laptop,Electronics,3,899.99,2699.97,2025-10-18
+630,117,2,Phone,Electronics,3,699.99,2099.97,2025-05-26
+631,35,9,SSD,Storage,5,109.99,549.95,2025-09-10
+632,50,9,SSD,Storage,4,109.99,439.96,2025-05-20
+633,188,2,Phone,Electronics,3,699.99,2099.97,2025-03-25
+634,4,8,Webcam,Accessories,3,69.99,209.97,2025-04-06
+635,173,6,Mouse,Accessories,3,29.99,89.97,2025-10-18
+636,164,4,Monitor,Electronics,2,249.99,499.98,2025-11-09
+637,84,7,Headphones,Accessories,4,89.99,359.96,2025-09-21
+638,25,2,Phone,Electronics,4,699.99,2799.96,2025-12-09
+639,83,3,Tablet,Electronics,2,399.99,799.98,2025-09-02
+640,99,4,Monitor,Electronics,1,249.99,249.99,2025-05-14
+641,85,4,Monitor,Electronics,4,249.99,999.96,2025-05-17
+642,3,5,Keyboard,Accessories,5,49.99,249.95,2025-10-21
+643,61,5,Keyboard,Accessories,3,49.99,149.97,2025-12-21
+644,79,1,Laptop,Electronics,1,899.99,899.99,2025-08-27
+645,129,3,Tablet,Electronics,4,399.99,1599.96,2025-12-18
+646,76,5,Keyboard,Accessories,1,49.99,49.99,2025-11-24
+647,57,6,Mouse,Accessories,5,29.99,149.95,2025-04-24
+648,117,3,Tablet,Electronics,4,399.99,1599.96,2025-03-20
+649,180,10,Smart Watch,Wearables,3,199.99,599.97,2025-08-01
+650,171,9,SSD,Storage,4,109.99,439.96,2025-10-03
+651,194,4,Monitor,Electronics,2,249.99,499.98,2025-12-15
+652,115,10,Smart Watch,Wearables,1,199.99,199.99,2025-09-27
+653,145,9,SSD,Storage,3,109.99,329.97,2025-02-09
+654,130,2,Phone,Electronics,1,699.99,699.99,2025-10-08
+655,39,4,Monitor,Electronics,5,249.99,1249.95,2025-10-02
+656,114,3,Tablet,Electronics,3,399.99,1199.97,2025-09-24
+657,126,2,Phone,Electronics,2,699.99,1399.98,2025-10-26
+658,15,2,Phone,Electronics,5,699.99,3499.95,2025-08-17
+659,107,8,Webcam,Accessories,2,69.99,139.98,2025-09-20
+660,144,8,Webcam,Accessories,5,69.99,349.95,2025-01-30
+661,102,8,Webcam,Accessories,3,69.99,209.97,2025-01-12
+662,149,5,Keyboard,Accessories,1,49.99,49.99,2025-04-22
+663,89,2,Phone,Electronics,1,699.99,699.99,2025-08-05
+664,18,2,Phone,Electronics,5,699.99,3499.95,2025-01-31
+665,105,8,Webcam,Accessories,1,69.99,69.99,2025-05-27
+666,187,3,Tablet,Electronics,2,399.99,799.98,2025-11-25
+667,115,7,Headphones,Accessories,3,89.99,269.97,2025-07-15
+668,175,7,Headphones,Accessories,4,89.99,359.96,2025-02-11
+669,90,9,SSD,Storage,2,109.99,219.98,2025-12-01
+670,101,2,Phone,Electronics,2,699.99,1399.98,2025-10-03
+671,1,9,SSD,Storage,2,109.99,219.98,2025-04-25
+672,173,1,Laptop,Electronics,3,899.99,2699.97,2025-08-26
+673,98,9,SSD,Storage,4,109.99,439.96,2025-09-30
+674,89,4,Monitor,Electronics,2,249.99,499.98,2025-08-24
+675,186,3,Tablet,Electronics,3,399.99,1199.97,2025-04-07
+676,108,2,Phone,Electronics,1,699.99,699.99,2025-12-05
+677,53,10,Smart Watch,Wearables,1,199.99,199.99,2025-05-04
+678,9,2,Phone,Electronics,1,699.99,699.99,2025-11-01
+679,181,8,Webcam,Accessories,5,69.99,349.95,2025-12-11
+680,103,1,Laptop,Electronics,2,899.99,1799.98,2025-01-23
+681,56,8,Webcam,Accessories,2,69.99,139.98,2025-10-04
+682,75,1,Laptop,Electronics,2,899.99,1799.98,2025-09-15
+683,148,4,Monitor,Electronics,5,249.99,1249.95,2025-06-13
+684,78,10,Smart Watch,Wearables,3,199.99,599.97,2025-05-02
+685,106,3,Tablet,Electronics,5,399.99,1999.95,2025-04-24
+686,143,5,Keyboard,Accessories,3,49.99,149.97,2025-02-01
+687,174,10,Smart Watch,Wearables,2,199.99,399.98,2025-11-17
+688,13,7,Headphones,Accessories,5,89.99,449.95,2025-09-11
+689,82,6,Mouse,Accessories,4,29.99,119.96,2025-09-26
+690,77,7,Headphones,Accessories,4,89.99,359.96,2025-03-18
+691,122,7,Headphones,Accessories,2,89.99,179.98,2025-10-03
+692,182,4,Monitor,Electronics,2,249.99,499.98,2025-06-03
+693,144,3,Tablet,Electronics,4,399.99,1599.96,2025-01-30
+694,136,7,Headphones,Accessories,4,89.99,359.96,2025-10-13
+695,66,3,Tablet,Electronics,4,399.99,1599.96,2025-05-05
+696,21,4,Monitor,Electronics,3,249.99,749.97,2025-11-28
+697,138,8,Webcam,Accessories,3,69.99,209.97,2025-02-17
+698,97,4,Monitor,Electronics,1,249.99,249.99,2025-05-18
+699,19,10,Smart Watch,Wearables,5,199.99,999.95,2025-01-21
+700,144,4,Monitor,Electronics,5,249.99,1249.95,2025-12-10
+701,86,4,Monitor,Electronics,4,249.99,999.96,2025-04-17
+702,49,5,Keyboard,Accessories,1,49.99,49.99,2025-04-19
+703,179,2,Phone,Electronics,4,699.99,2799.96,2025-05-05
+704,62,10,Smart Watch,Wearables,2,199.99,399.98,2025-07-23
+705,98,9,SSD,Storage,3,109.99,329.97,2025-05-25
+706,92,8,Webcam,Accessories,5,69.99,349.95,2025-11-29
+707,132,5,Keyboard,Accessories,3,49.99,149.97,2025-07-04
+708,185,8,Webcam,Accessories,4,69.99,279.96,2025-02-20
+709,95,8,Webcam,Accessories,3,69.99,209.97,2025-04-15
+710,145,6,Mouse,Accessories,4,29.99,119.96,2025-01-24
+711,67,4,Monitor,Electronics,2,249.99,499.98,2025-01-09
+712,185,9,SSD,Storage,5,109.99,549.95,2025-10-24
+713,51,7,Headphones,Accessories,3,89.99,269.97,2025-03-20
+714,146,6,Mouse,Accessories,2,29.99,59.98,2025-07-14
+715,168,4,Monitor,Electronics,4,249.99,999.96,2025-10-09
+716,186,6,Mouse,Accessories,3,29.99,89.97,2025-09-08
+717,188,8,Webcam,Accessories,4,69.99,279.96,2025-03-28
+718,185,6,Mouse,Accessories,2,29.99,59.98,2025-03-13
+719,139,9,SSD,Storage,4,109.99,439.96,2025-04-05
+720,20,1,Laptop,Electronics,5,899.99,4499.95,2025-01-18
+721,36,1,Laptop,Electronics,1,899.99,899.99,2025-07-31
+722,39,4,Monitor,Electronics,1,249.99,249.99,2025-12-29
+723,117,1,Laptop,Electronics,2,899.99,1799.98,2025-09-16
+724,164,6,Mouse,Accessories,1,29.99,29.99,2025-11-13
+725,125,10,Smart Watch,Wearables,4,199.99,799.96,2025-12-04
+726,142,1,Laptop,Electronics,1,899.99,899.99,2025-09-30
+727,136,7,Headphones,Accessories,1,89.99,89.99,2025-01-09
+728,5,5,Keyboard,Accessories,5,49.99,249.95,2025-05-27
+729,28,9,SSD,Storage,4,109.99,439.96,2025-04-02
+730,62,2,Phone,Electronics,5,699.99,3499.95,2025-03-18
+731,65,4,Monitor,Electronics,5,249.99,1249.95,2025-09-27
+732,21,6,Mouse,Accessories,3,29.99,89.97,2025-07-23
+733,145,6,Mouse,Accessories,4,29.99,119.96,2025-08-24
+734,176,4,Monitor,Electronics,2,249.99,499.98,2025-06-03
+735,104,2,Phone,Electronics,1,699.99,699.99,2025-02-17
+736,122,7,Headphones,Accessories,4,89.99,359.96,2025-10-10
+737,44,1,Laptop,Electronics,1,899.99,899.99,2025-12-26
+738,166,2,Phone,Electronics,4,699.99,2799.96,2025-08-11
+739,136,6,Mouse,Accessories,5,29.99,149.95,2025-02-18
+740,178,1,Laptop,Electronics,2,899.99,1799.98,2025-04-19
+741,12,10,Smart Watch,Wearables,4,199.99,799.96,2025-05-19
+742,145,2,Phone,Electronics,3,699.99,2099.97,2025-10-06
+743,5,1,Laptop,Electronics,2,899.99,1799.98,2025-06-11
+744,193,4,Monitor,Electronics,5,249.99,1249.95,2025-03-15
+745,42,7,Headphones,Accessories,1,89.99,89.99,2025-06-03
+746,100,10,Smart Watch,Wearables,2,199.99,399.98,2025-10-18
+747,194,9,SSD,Storage,3,109.99,329.97,2025-07-16
+748,191,3,Tablet,Electronics,1,399.99,399.99,2025-09-14
+749,112,6,Mouse,Accessories,1,29.99,29.99,2025-02-20
+750,155,4,Monitor,Electronics,1,249.99,249.99,2025-06-24
+751,199,10,Smart Watch,Wearables,5,199.99,999.95,2025-07-23
+752,70,6,Mouse,Accessories,1,29.99,29.99,2025-11-21
+753,92,8,Webcam,Accessories,4,69.99,279.96,2025-04-27
+754,48,9,SSD,Storage,4,109.99,439.96,2025-08-10
+755,198,10,Smart Watch,Wearables,4,199.99,799.96,2025-02-13
+756,183,10,Smart Watch,Wearables,3,199.99,599.97,2025-05-07
+757,40,2,Phone,Electronics,1,699.99,699.99,2025-05-18
+758,82,7,Headphones,Accessories,2,89.99,179.98,2025-07-19
+759,2,6,Mouse,Accessories,1,29.99,29.99,2025-02-16
+760,195,5,Keyboard,Accessories,4,49.99,199.96,2025-07-04
+761,23,5,Keyboard,Accessories,1,49.99,49.99,2025-03-09
+762,143,3,Tablet,Electronics,4,399.99,1599.96,2025-08-18
+763,27,9,SSD,Storage,5,109.99,549.95,2025-07-28
+764,142,1,Laptop,Electronics,1,899.99,899.99,2025-07-01
+765,84,2,Phone,Electronics,5,699.99,3499.95,2025-11-03
+766,106,7,Headphones,Accessories,1,89.99,89.99,2025-05-30
+767,63,7,Headphones,Accessories,1,89.99,89.99,2025-10-14
+768,176,10,Smart Watch,Wearables,5,199.99,999.95,2025-03-28
+769,69,7,Headphones,Accessories,2,89.99,179.98,2025-03-13
+770,38,5,Keyboard,Accessories,3,49.99,149.97,2025-09-10
+771,71,2,Phone,Electronics,2,699.99,1399.98,2025-08-11
+772,20,7,Headphones,Accessories,3,89.99,269.97,2025-09-05
+773,185,6,Mouse,Accessories,3,29.99,89.97,2025-05-07
+774,51,8,Webcam,Accessories,5,69.99,349.95,2025-11-12
+775,78,8,Webcam,Accessories,1,69.99,69.99,2025-03-11
+776,159,1,Laptop,Electronics,4,899.99,3599.96,2025-06-20
+777,86,7,Headphones,Accessories,3,89.99,269.97,2025-08-14
+778,77,7,Headphones,Accessories,5,89.99,449.95,2025-03-11
+779,52,6,Mouse,Accessories,5,29.99,149.95,2025-12-22
+780,102,8,Webcam,Accessories,3,69.99,209.97,2025-04-01
+781,163,6,Mouse,Accessories,3,29.99,89.97,2025-12-22
+782,84,8,Webcam,Accessories,5,69.99,349.95,2025-05-05
+783,94,7,Headphones,Accessories,3,89.99,269.97,2025-07-21
+784,152,2,Phone,Electronics,5,699.99,3499.95,2025-04-13
+785,197,9,SSD,Storage,2,109.99,219.98,2025-12-16
+786,182,9,SSD,Storage,1,109.99,109.99,2025-08-25
+787,178,4,Monitor,Electronics,4,249.99,999.96,2025-05-30
+788,128,2,Phone,Electronics,4,699.99,2799.96,2025-12-11
+789,65,3,Tablet,Electronics,3,399.99,1199.97,2025-05-04
+790,19,3,Tablet,Electronics,4,399.99,1599.96,2025-07-13
+791,150,8,Webcam,Accessories,5,69.99,349.95,2025-09-03
+792,178,7,Headphones,Accessories,5,89.99,449.95,2025-09-17
+793,93,7,Headphones,Accessories,5,89.99,449.95,2025-01-19
+794,22,9,SSD,Storage,5,109.99,549.95,2025-11-23
+795,171,2,Phone,Electronics,2,699.99,1399.98,2025-12-03
+796,157,6,Mouse,Accessories,2,29.99,59.98,2025-11-28
+797,174,1,Laptop,Electronics,5,899.99,4499.95,2025-11-27
+798,28,7,Headphones,Accessories,3,89.99,269.97,2025-08-09
+799,57,1,Laptop,Electronics,1,899.99,899.99,2025-05-13
+800,149,9,SSD,Storage,5,109.99,549.95,2025-10-13
+801,96,10,Smart Watch,Wearables,2,199.99,399.98,2025-08-17
+802,151,7,Headphones,Accessories,4,89.99,359.96,2025-12-14
+803,7,9,SSD,Storage,2,109.99,219.98,2025-06-26
+804,107,8,Webcam,Accessories,1,69.99,69.99,2025-06-01
+805,90,2,Phone,Electronics,1,699.99,699.99,2025-03-14
+806,53,5,Keyboard,Accessories,3,49.99,149.97,2025-08-22
+807,122,9,SSD,Storage,4,109.99,439.96,2025-06-28
+808,116,2,Phone,Electronics,4,699.99,2799.96,2025-12-23
+809,12,6,Mouse,Accessories,1,29.99,29.99,2025-06-03
+810,166,2,Phone,Electronics,1,699.99,699.99,2025-06-25
+811,133,2,Phone,Electronics,2,699.99,1399.98,2025-05-05
+812,85,3,Tablet,Electronics,5,399.99,1999.95,2025-03-23
+813,60,9,SSD,Storage,4,109.99,439.96,2025-08-25
+814,164,7,Headphones,Accessories,2,89.99,179.98,2025-04-06
+815,189,7,Headphones,Accessories,4,89.99,359.96,2025-01-15
+816,152,10,Smart Watch,Wearables,2,199.99,399.98,2025-08-19
+817,181,7,Headphones,Accessories,4,89.99,359.96,2025-01-03
+818,193,4,Monitor,Electronics,2,249.99,499.98,2025-05-23
+819,138,2,Phone,Electronics,5,699.99,3499.95,2025-02-22
+820,51,3,Tablet,Electronics,3,399.99,1199.97,2025-06-16
+821,172,8,Webcam,Accessories,1,69.99,69.99,2025-05-15
+822,81,8,Webcam,Accessories,5,69.99,349.95,2025-11-24
+823,101,10,Smart Watch,Wearables,4,199.99,799.96,2025-11-09
+824,91,10,Smart Watch,Wearables,1,199.99,199.99,2025-06-28
+825,173,8,Webcam,Accessories,5,69.99,349.95,2025-03-30
+826,22,5,Keyboard,Accessories,5,49.99,249.95,2025-10-30
+827,62,3,Tablet,Electronics,3,399.99,1199.97,2025-03-02
+828,96,5,Keyboard,Accessories,1,49.99,49.99,2025-04-04
+829,108,3,Tablet,Electronics,5,399.99,1999.95,2025-07-18
+830,99,10,Smart Watch,Wearables,2,199.99,399.98,2025-10-22
+831,163,7,Headphones,Accessories,2,89.99,179.98,2025-09-07
+832,43,9,SSD,Storage,2,109.99,219.98,2025-10-12
+833,48,8,Webcam,Accessories,3,69.99,209.97,2025-03-13
+834,14,6,Mouse,Accessories,4,29.99,119.96,2025-11-14
+835,35,6,Mouse,Accessories,1,29.99,29.99,2025-09-06
+836,130,4,Monitor,Electronics,4,249.99,999.96,2025-10-15
+837,126,8,Webcam,Accessories,4,69.99,279.96,2025-12-17
+838,43,7,Headphones,Accessories,4,89.99,359.96,2025-09-08
+839,195,2,Phone,Electronics,5,699.99,3499.95,2025-01-16
+840,71,4,Monitor,Electronics,3,249.99,749.97,2025-01-17
+841,44,4,Monitor,Electronics,5,249.99,1249.95,2025-05-28
+842,141,8,Webcam,Accessories,5,69.99,349.95,2025-09-11
+843,30,9,SSD,Storage,1,109.99,109.99,2025-10-21
+844,139,5,Keyboard,Accessories,5,49.99,249.95,2025-07-07
+845,56,1,Laptop,Electronics,4,899.99,3599.96,2025-10-07
+846,193,7,Headphones,Accessories,1,89.99,89.99,2025-12-01
+847,116,4,Monitor,Electronics,3,249.99,749.97,2025-01-17
+848,113,5,Keyboard,Accessories,3,49.99,149.97,2025-02-14
+849,189,2,Phone,Electronics,2,699.99,1399.98,2025-04-18
+850,157,10,Smart Watch,Wearables,3,199.99,599.97,2025-12-30
+851,36,7,Headphones,Accessories,2,89.99,179.98,2025-11-12
+852,146,4,Monitor,Electronics,2,249.99,499.98,2025-01-31
+853,153,6,Mouse,Accessories,5,29.99,149.95,2025-05-24
+854,181,9,SSD,Storage,2,109.99,219.98,2025-06-15
+855,69,5,Keyboard,Accessories,3,49.99,149.97,2025-10-21
+856,193,9,SSD,Storage,1,109.99,109.99,2025-03-11
+857,168,7,Headphones,Accessories,1,89.99,89.99,2025-05-22
+858,38,3,Tablet,Electronics,2,399.99,799.98,2025-05-08
+859,101,6,Mouse,Accessories,2,29.99,59.98,2025-12-13
+860,162,8,Webcam,Accessories,2,69.99,139.98,2025-10-23
+861,116,5,Keyboard,Accessories,4,49.99,199.96,2025-07-12
+862,132,2,Phone,Electronics,1,699.99,699.99,2025-07-26
+863,125,5,Keyboard,Accessories,3,49.99,149.97,2025-08-21
+864,199,6,Mouse,Accessories,5,29.99,149.95,2025-01-02
+865,171,2,Phone,Electronics,4,699.99,2799.96,2025-11-22
+866,102,6,Mouse,Accessories,1,29.99,29.99,2025-10-01
+867,127,4,Monitor,Electronics,4,249.99,999.96,2025-04-19
+868,87,5,Keyboard,Accessories,3,49.99,149.97,2025-05-26
+869,145,9,SSD,Storage,5,109.99,549.95,2025-03-08
+870,196,8,Webcam,Accessories,3,69.99,209.97,2025-12-16
+871,161,1,Laptop,Electronics,1,899.99,899.99,2025-02-20
+872,41,8,Webcam,Accessories,1,69.99,69.99,2025-03-05
+873,110,8,Webcam,Accessories,4,69.99,279.96,2025-01-01
+874,78,4,Monitor,Electronics,2,249.99,499.98,2025-11-29
+875,168,3,Tablet,Electronics,3,399.99,1199.97,2025-02-17
+876,96,6,Mouse,Accessories,3,29.99,89.97,2025-02-12
+877,161,3,Tablet,Electronics,1,399.99,399.99,2025-07-22
+878,168,5,Keyboard,Accessories,2,49.99,99.98,2025-08-08
+879,55,2,Phone,Electronics,1,699.99,699.99,2025-01-01
+880,152,8,Webcam,Accessories,1,69.99,69.99,2025-03-09
+881,114,4,Monitor,Electronics,5,249.99,1249.95,2025-12-15
+882,88,1,Laptop,Electronics,1,899.99,899.99,2025-12-23
+883,34,2,Phone,Electronics,4,699.99,2799.96,2025-12-22
+884,99,8,Webcam,Accessories,1,69.99,69.99,2025-04-28
+885,81,2,Phone,Electronics,1,699.99,699.99,2025-02-22
+886,98,6,Mouse,Accessories,3,29.99,89.97,2025-03-12
+887,136,3,Tablet,Electronics,2,399.99,799.98,2025-02-05
+888,167,10,Smart Watch,Wearables,1,199.99,199.99,2025-11-09
+889,185,3,Tablet,Electronics,4,399.99,1599.96,2025-06-29
+890,158,4,Monitor,Electronics,2,249.99,499.98,2025-07-30
+891,26,8,Webcam,Accessories,2,69.99,139.98,2025-02-14
+892,187,3,Tablet,Electronics,1,399.99,399.99,2025-10-29
+893,81,7,Headphones,Accessories,3,89.99,269.97,2025-08-08
+894,166,3,Tablet,Electronics,2,399.99,799.98,2025-05-22
+895,154,2,Phone,Electronics,2,699.99,1399.98,2025-10-11
+896,200,10,Smart Watch,Wearables,5,199.99,999.95,2025-05-26
+897,133,1,Laptop,Electronics,3,899.99,2699.97,2025-04-16
+898,192,10,Smart Watch,Wearables,5,199.99,999.95,2025-04-07
+899,14,7,Headphones,Accessories,3,89.99,269.97,2025-11-27
+900,29,4,Monitor,Electronics,4,249.99,999.96,2025-07-17
+901,153,4,Monitor,Electronics,4,249.99,999.96,2025-11-23
+902,93,2,Phone,Electronics,5,699.99,3499.95,2025-01-07
+903,146,6,Mouse,Accessories,2,29.99,59.98,2025-07-18
+904,175,7,Headphones,Accessories,3,89.99,269.97,2025-10-07
+905,5,3,Tablet,Electronics,4,399.99,1599.96,2025-02-07
+906,68,10,Smart Watch,Wearables,1,199.99,199.99,2025-01-08
+907,102,4,Monitor,Electronics,1,249.99,249.99,2025-01-31
+908,183,9,SSD,Storage,3,109.99,329.97,2025-11-18
+909,180,9,SSD,Storage,4,109.99,439.96,2025-08-05
+910,138,7,Headphones,Accessories,1,89.99,89.99,2025-11-24
+911,72,9,SSD,Storage,5,109.99,549.95,2025-03-20
+912,131,2,Phone,Electronics,3,699.99,2099.97,2025-02-10
+913,84,4,Monitor,Electronics,2,249.99,499.98,2025-10-02
+914,196,7,Headphones,Accessories,5,89.99,449.95,2025-11-21
+915,112,2,Phone,Electronics,3,699.99,2099.97,2025-12-24
+916,23,4,Monitor,Electronics,1,249.99,249.99,2025-05-06
+917,157,7,Headphones,Accessories,1,89.99,89.99,2025-08-21
+918,171,10,Smart Watch,Wearables,1,199.99,199.99,2025-06-08
+919,182,3,Tablet,Electronics,1,399.99,399.99,2025-01-07
+920,128,3,Tablet,Electronics,1,399.99,399.99,2025-03-25
+921,185,6,Mouse,Accessories,5,29.99,149.95,2025-09-22
+922,33,5,Keyboard,Accessories,2,49.99,99.98,2025-07-10
+923,86,5,Keyboard,Accessories,1,49.99,49.99,2025-01-16
+924,17,7,Headphones,Accessories,3,89.99,269.97,2025-09-26
+925,20,5,Keyboard,Accessories,5,49.99,249.95,2025-11-18
+926,93,8,Webcam,Accessories,4,69.99,279.96,2025-09-19
+927,43,1,Laptop,Electronics,4,899.99,3599.96,2025-10-18
+928,198,6,Mouse,Accessories,2,29.99,59.98,2025-05-11
+929,186,2,Phone,Electronics,5,699.99,3499.95,2025-12-12
+930,1,2,Phone,Electronics,2,699.99,1399.98,2025-09-18
+931,12,1,Laptop,Electronics,1,899.99,899.99,2025-05-06
+932,39,8,Webcam,Accessories,3,69.99,209.97,2025-07-16
+933,183,3,Tablet,Electronics,1,399.99,399.99,2025-10-11
+934,64,7,Headphones,Accessories,2,89.99,179.98,2025-06-14
+935,20,7,Headphones,Accessories,3,89.99,269.97,2025-05-19
+936,129,10,Smart Watch,Wearables,3,199.99,599.97,2025-03-03
+937,133,1,Laptop,Electronics,2,899.99,1799.98,2025-04-25
+938,120,1,Laptop,Electronics,4,899.99,3599.96,2025-02-05
+939,23,5,Keyboard,Accessories,3,49.99,149.97,2025-06-17
+940,95,9,SSD,Storage,4,109.99,439.96,2025-01-05
+941,78,4,Monitor,Electronics,3,249.99,749.97,2025-10-16
+942,95,10,Smart Watch,Wearables,2,199.99,399.98,2025-08-26
+943,188,10,Smart Watch,Wearables,4,199.99,799.96,2025-04-11
+944,2,9,SSD,Storage,2,109.99,219.98,2025-03-19
+945,139,7,Headphones,Accessories,1,89.99,89.99,2025-04-30
+946,1,6,Mouse,Accessories,1,29.99,29.99,2025-06-21
+947,53,7,Headphones,Accessories,3,89.99,269.97,2025-02-23
+948,126,9,SSD,Storage,2,109.99,219.98,2025-08-03
+949,72,1,Laptop,Electronics,2,899.99,1799.98,2025-12-31
+950,134,2,Phone,Electronics,1,699.99,699.99,2025-04-29
+951,192,7,Headphones,Accessories,3,89.99,269.97,2025-08-23
+952,130,2,Phone,Electronics,5,699.99,3499.95,2025-02-18
+953,152,3,Tablet,Electronics,4,399.99,1599.96,2025-02-08
+954,170,10,Smart Watch,Wearables,1,199.99,199.99,2025-08-11
+955,67,3,Tablet,Electronics,2,399.99,799.98,2025-05-30
+956,189,6,Mouse,Accessories,4,29.99,119.96,2025-12-25
+957,70,6,Mouse,Accessories,3,29.99,89.97,2025-08-20
+958,35,4,Monitor,Electronics,1,249.99,249.99,2025-04-14
+959,28,10,Smart Watch,Wearables,1,199.99,199.99,2025-03-21
+960,81,3,Tablet,Electronics,4,399.99,1599.96,2025-08-27
+961,92,7,Headphones,Accessories,1,89.99,89.99,2025-10-02
+962,119,4,Monitor,Electronics,4,249.99,999.96,2025-06-07
+963,41,5,Keyboard,Accessories,1,49.99,49.99,2025-02-16
+964,56,5,Keyboard,Accessories,5,49.99,249.95,2025-01-21
+965,183,6,Mouse,Accessories,2,29.99,59.98,2025-02-16
+966,132,4,Monitor,Electronics,3,249.99,749.97,2025-07-22
+967,45,1,Laptop,Electronics,3,899.99,2699.97,2025-05-14
+968,143,1,Laptop,Electronics,4,899.99,3599.96,2025-08-20
+969,119,9,SSD,Storage,2,109.99,219.98,2025-02-18
+970,4,2,Phone,Electronics,2,699.99,1399.98,2025-03-04
+971,51,1,Laptop,Electronics,2,899.99,1799.98,2025-03-08
+972,162,7,Headphones,Accessories,3,89.99,269.97,2025-12-18
+973,67,2,Phone,Electronics,5,699.99,3499.95,2025-10-28
+974,51,2,Phone,Electronics,1,699.99,699.99,2025-02-03
+975,85,8,Webcam,Accessories,2,69.99,139.98,2025-02-17
+976,13,2,Phone,Electronics,1,699.99,699.99,2025-08-25
+977,186,3,Tablet,Electronics,5,399.99,1999.95,2025-08-10
+978,98,7,Headphones,Accessories,4,89.99,359.96,2025-01-16
+979,55,7,Headphones,Accessories,2,89.99,179.98,2025-07-01
+980,115,3,Tablet,Electronics,3,399.99,1199.97,2025-05-24
+981,159,3,Tablet,Electronics,1,399.99,399.99,2025-11-11
+982,76,10,Smart Watch,Wearables,2,199.99,399.98,2025-11-28
+983,123,8,Webcam,Accessories,4,69.99,279.96,2025-10-09
+984,99,1,Laptop,Electronics,1,899.99,899.99,2025-05-24
+985,165,3,Tablet,Electronics,4,399.99,1599.96,2025-04-13
+986,140,9,SSD,Storage,2,109.99,219.98,2025-11-19
+987,123,1,Laptop,Electronics,4,899.99,3599.96,2025-07-03
+988,145,9,SSD,Storage,4,109.99,439.96,2025-06-26
+989,70,9,SSD,Storage,3,109.99,329.97,2025-07-18
+990,153,3,Tablet,Electronics,1,399.99,399.99,2025-06-13
+991,15,4,Monitor,Electronics,1,249.99,249.99,2025-05-24
+992,197,8,Webcam,Accessories,5,69.99,349.95,2025-07-03
+993,26,10,Smart Watch,Wearables,2,199.99,399.98,2025-03-23
+994,137,4,Monitor,Electronics,2,249.99,499.98,2025-05-17
+995,100,1,Laptop,Electronics,2,899.99,1799.98,2025-10-22
+996,61,6,Mouse,Accessories,2,29.99,59.98,2025-04-01
+997,92,10,Smart Watch,Wearables,3,199.99,599.97,2025-12-24
+998,180,10,Smart Watch,Wearables,1,199.99,199.99,2025-12-27
+999,37,6,Mouse,Accessories,5,29.99,149.95,2025-10-16
+1000,139,10,Smart Watch,Wearables,2,199.99,399.98,2025-09-10
